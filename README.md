@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Eu sou o Felipe Trindade 👋
 
-<!--
-**Trindadefelipe/Trindadefelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente buscando minha primeira oportunidade
+- 🌱 Estudando para Web
+- 📫 Contate-me no e-mail: trindade.felipegabriel@gmail.com
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical" alt="GitHub Streak" />
+</div>
