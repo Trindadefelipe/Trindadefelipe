@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Trindade 👋
 
-- 🔭 Atualmente buscando minha primeira oportunidade
-- 🌱 Estudando para Web
+- 🔭 Atualmente estágiario para QualiApps
+- 🌱 Estudando para Web - BackEnd - IA  
 - 📫 Contate-me no e-mail: trindade.felipegabriel@gmail.com
 
 ## 📊 Estatísticas do GitHub
