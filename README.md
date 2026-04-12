@@ -34,11 +34,11 @@
 
 ## 📦 Projetos em destaque
 
-- 🏠 **QualiHome / QualiPro** — [github.com/Trindadefelipe/QualiHome](https://github.com/Trindadefelipe/QualiHome)
-  Apps web para gestão de chamados pós-obra. MVP vencedor de Hackathon — atende cliente e construtora simultaneamente.
-
 - 🥋 **Landing Page — Academia Brallen** — [github.com/Trindadefelipe/Lp_AcademiaBrallen](https://github.com/Trindadefelipe/Lp_AcademiaBrallen)
   Landing page desenvolvida para academia de jiu-jitsu, com foco em design, responsividade e experiência do usuário.
+
+- 🏠 **QualiHome / QualiPro** — [github.com/Trindadefelipe/QualiHome](https://github.com/Trindadefelipe/QualiHome)
+  Apps web para gestão de chamados pós-obra. MVP vencedor de Hackathon — atende cliente e construtora simultaneamente.
 
 ---
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical)
 
 </div>
 
@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-<i>Cada commit é um passo — cada projeto é uma entrega de valor</i>
+✨ <i>Cada commit é um passo — cada projeto é uma entrega de valor</i> ✨
 </p>
