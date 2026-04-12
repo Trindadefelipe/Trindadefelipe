@@ -16,8 +16,9 @@ jobs:
 
       - name: Generate GitHub Stats
         run: |
-          curl -o stats.svg "https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-          curl -o top-langs.svg "https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical"
+          curl -L -A "Mozilla/5.0" -o stats.svg "https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+          curl -L -A "Mozilla/5.0" -o top-langs.svg "https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical"
+          head -c 100 stats.svg
 
       - name: Commit files
         run: |
