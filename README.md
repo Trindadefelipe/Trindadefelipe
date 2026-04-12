@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Sobre mim
+## 🧑🏻 Sobre mim
 
 - 💼 Estagiário de Desenvolvimento na **QualiApps** (remoto)
 - 🏆 Vencedor de Hackathon — MVP de plataforma pós-obra - QualiHome e QualiPro (1º lugar)
@@ -34,25 +34,23 @@
 
 ## 📦 Projetos em destaque
 
-- 🥋 **Landing Page — Academia Brallen** — [github.com/Trindadefelipe/Lp_AcademiaBrallen](https://github.com/Trindadefelipe/Lp_AcademiaBrallen)
-  Landing page desenvolvida para academia de jiu-jitsu, com foco em design, responsividade e experiência do usuário.
-
 - 🏠 **QualiHome / QualiPro** — [github.com/Trindadefelipe/QualiHome](https://github.com/Trindadefelipe/QualiHome)
   Apps web para gestão de chamados pós-obra. MVP vencedor de Hackathon — atende cliente e construtora simultaneamente.
+
+- 🥋 **Landing Page — Academia Brallen** — [github.com/Trindadefelipe/Lp_AcademiaBrallen](https://github.com/Trindadefelipe/Lp_AcademiaBrallen)
+  Landing page desenvolvida para academia de jiu-jitsu, com foco em design, responsividade e experiência do usuário.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical&hide_border=true"/>
 </div>
 
 ---
@@ -75,5 +73,5 @@
 ---
 
 <p align="center">
-✨ <i>Cada commit é um passo — cada projeto é uma entrega de valor</i> ✨
+  <i>Cada commit é um passo — cada projeto é uma entrega de valor</i>
 </p>
