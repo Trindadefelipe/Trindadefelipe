@@ -45,12 +45,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical&hide_border=true"/>
+  <img src="./stats.svg" />
+  <img src="./top-langs.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical"/>
 </div>
 
 ---
