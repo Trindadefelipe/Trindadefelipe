@@ -44,17 +44,15 @@
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical)
-
+  <img src="https://github-readme-stats-lkkivl9st.vercel.app/api?username=Trindadefelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-lkkivl9st.vercel.app/api/top-langs/?username=Trindadefelipe&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical"/>
 </div>
 
 ---
