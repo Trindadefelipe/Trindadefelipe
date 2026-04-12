@@ -1,0 +1,16 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          USERNAME: Trindadefelipe
+          REPO_TOKEN: ${{ secrets.GH_TOKEN }}
