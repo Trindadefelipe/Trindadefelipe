@@ -45,12 +45,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="./stats.svg" />
-  <img src="./top-langs.svg" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trindadefelipe&theme=radical&hide_border=true"/>
 </div>
 
 ---
