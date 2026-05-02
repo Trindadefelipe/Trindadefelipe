@@ -55,7 +55,7 @@
 - Node.js e arquitetura back-end escalável
 - APIs REST — boas práticas e documentação
 - Banco de dados — modelagem e otimização
-- Java e C (em desenvolvimento)
+- Java e PHP (em desenvolvimento)
 
 ---
 
