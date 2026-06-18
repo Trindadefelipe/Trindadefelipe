@@ -1,7 +1,7 @@
 <h1 align="center">Muito prazer! Eu sou o Felipe Trindade 👋</h1>
 <p align="center">
   ⚙️ Desenvolvedor Back-End em formação <br>
-  🚀 JavaScript • APIs RESTful • MySQL • Node.js
+  🚀 Node.js • APIs RESTful • MySQL/PLSQL • Java 
 </p>
 
 ---
@@ -9,6 +9,7 @@
 ## 🧑🏻 Sobre mim
 
 - 💼 Estagiário de Desenvolvimento na **QualiApps** (remoto)
+- 💼 Analista de Desenvolvimento Junior I na **Solus** (presencial)
 - 🏆 Vencedor de Hackathon — MVP de plataforma pós-obra - QualiHome e QualiPro (1º lugar)
 - 🌱 Aprofundando **Node.js**, **Java** e arquitetura back-end escalável
 - 🧠 Background como empresário: visão de negócio aplicada ao código
